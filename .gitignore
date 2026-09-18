@@ -1,11 +1,10 @@
-# model weights live on Zenodo (see 3__weights/README.md)
+# Model weights are hosted on Zenodo (see 3__weights/README.md) — never commit them.
 *.pth
 *.h5
 *.hdf5
-*.npz
-*.npy
 *.bam
 *.bw
+*.bigwig
 __pycache__/
 *.pyc
 _output_stage*/
