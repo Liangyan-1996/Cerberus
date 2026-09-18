@@ -1,0 +1,11 @@
+# model weights live on Zenodo (see 3__weights/README.md)
+*.pth
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.bam
+*.bw
+__pycache__/
+*.pyc
+_output_stage*/
