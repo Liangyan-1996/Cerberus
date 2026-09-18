@@ -1,0 +1,13 @@
+metric,model_a,model_b,n_folds,mean_a,mean_b,delta,t,df,p,sig
+auroc,Cerberus_union,DeepSE_official,5,0.9173,0.7039,0.2134,19.6432,4,4e-05,***
+auroc,Cerberus_union,SENet,5,0.9173,0.74,0.1773,20.3111,4,3e-05,***
+auroc,Cerberus_union,MuSE_official,5,0.9173,0.7391,0.1781,18.8331,4,5e-05,***
+auroc,Cerberus_union,DcSE,5,0.9173,0.7448,0.1724,16.169,4,9e-05,***
+auprc,Cerberus_union,DeepSE_official,5,0.5359,0.1575,0.3784,47.262,4,0.0,***
+auprc,Cerberus_union,SENet,5,0.5359,0.1724,0.3635,57.1144,4,0.0,***
+auprc,Cerberus_union,MuSE_official,5,0.5359,0.1742,0.3616,51.591,4,0.0,***
+auprc,Cerberus_union,DcSE,5,0.5359,0.1749,0.3609,46.5898,4,0.0,***
+test_f1,Cerberus_union,DeepSE_official,5,0.5631,0.243,0.3201,24.8157,4,2e-05,***
+test_f1,Cerberus_union,SENet,5,0.5631,0.2724,0.2907,41.3074,4,0.0,***
+test_f1,Cerberus_union,MuSE_official,5,0.5631,0.2721,0.2909,26.2294,4,1e-05,***
+test_f1,Cerberus_union,DcSE,5,0.5631,0.2764,0.2867,20.7535,4,3e-05,***

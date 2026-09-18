@@ -1,0 +1,5 @@
+metric,model_b,mean_cerberus,mean_base,t,p
+region_auprc,DeepSE_official,0.643,0.291,53.452,0.0
+region_auprc,SENet,0.643,0.3407,30.158,1e-05
+region_auprc,MuSE_official,0.643,0.3076,33.071,0.0
+region_auprc,DcSE,0.643,0.3323,24.479,2e-05

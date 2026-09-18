@@ -1,0 +1,13 @@
+metric,model_b,mean_a,mean_b,t,df,p
+auroc,DeepSE_official,0.9377,0.8825,10.858,4,0.00041
+auroc,SENet,0.9377,0.8953,6.693,4,0.00259
+auroc,MuSE_official,0.9377,0.8932,6.885,4,0.00233
+auroc,DcSE,0.9377,0.8915,7.909,4,0.00138
+auprc,DeepSE_official,0.6983,0.4676,39.357,4,0.0
+auprc,SENet,0.6983,0.5157,16.106,4,9e-05
+auprc,MuSE_official,0.6983,0.4881,19.924,4,4e-05
+auprc,DcSE,0.6983,0.4882,19.19,4,4e-05
+test_f1,DeepSE_official,0.614,0.471,16.489,4,8e-05
+test_f1,SENet,0.614,0.497,9.204,4,0.00077
+test_f1,MuSE_official,0.614,0.483,12.563,4,0.00023
+test_f1,DcSE,0.614,0.4912,11.767,4,0.0003

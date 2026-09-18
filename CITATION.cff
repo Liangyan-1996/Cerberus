@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Cerberus: Clustered Enhancer Recognition via Borzoi-Embedded Representations of Underlying Sequences"
+message: "If you use this code or the released model weights, please cite the paper and the Zenodo archive."
+type: software
+authors:
+  - family-names: "[TODO]"
+    given-names: "[TODO]"
+    affiliation: "[TODO]"
+repository-code: "https://github.com/[TODO-USER]/Cerberus"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-18"
+references:
+  - type: article
+    title: "[TODO: manuscript title]"
+    journal: "[TODO]"
+    doi: "[TODO]"

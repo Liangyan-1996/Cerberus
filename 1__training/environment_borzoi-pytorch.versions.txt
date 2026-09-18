@@ -1,0 +1,7 @@
+python 3.13.7
+torch 2.5.1
+transformers 4.57.0
+numpy 2.2.6
+pandas 2.3.3
+scipy 1.16.3
+captum/shap: No module named 'shap'
