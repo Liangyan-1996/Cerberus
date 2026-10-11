@@ -1,7 +1,7 @@
 # 3__weights — model checkpoints (hosted on Zenodo)
 
 The checkpoints are **not** stored in this git repository. They are archived on Zenodo together with
-the full code release; the Zenodo DOI is `[TODO: 10.5281/zenodo.XXXXXXX]`.
+the full code release; the Zenodo DOI is [10.5281/zenodo.22840452](https://doi.org/10.5281/zenodo.22840452).
 
 | File (in the Zenodo archive, under `3__weights/`) | Role |
 |---|---|

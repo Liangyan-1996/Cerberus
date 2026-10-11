@@ -9,7 +9,7 @@ MACS2 + ROSE. This repository contains the model training code and the code for 
 benchmark against four SE-calling baselines (DeepSE, SENet, MuSE, DcSE).
 
 **Model weights are not stored in git** — they are archived on Zenodo together with the full code
-release: `[TODO: Zenodo DOI 10.5281/zenodo.XXXXXXX]`. See [`3__weights/README.md`](3__weights/README.md)
+release: [10.5281/zenodo.22840452](https://doi.org/10.5281/zenodo.22840452). See [`3__weights/README.md`](3__weights/README.md)
 for the file list and `3__weights/weights_manifest.csv` for per-file sha256 digests.
 
 ## Layout
@@ -73,7 +73,7 @@ splits) are part of the Zenodo archive.
 
 ## Weights
 
-Download the checkpoints from Zenodo (`[TODO: DOI]`) and verify them against
+Download the checkpoints from Zenodo ([10.5281/zenodo.22840452](https://doi.org/10.5281/zenodo.22840452)) and verify them against
 `3__weights/weights_manifest.csv`. Loading:
 
 ```python
@@ -104,7 +104,7 @@ and `modisco-lite`.
 ## Citation
 
 If you use this code or the released weights, please cite the manuscript `[TODO: title, journal, DOI]`
-and the Zenodo archive (`[TODO: DOI]`). Machine-readable metadata: [`CITATION.cff`](CITATION.cff).
+and the Zenodo archive ([10.5281/zenodo.22840452](https://doi.org/10.5281/zenodo.22840452)). Machine-readable metadata: [`CITATION.cff`](CITATION.cff).
 
 ## Licence
 

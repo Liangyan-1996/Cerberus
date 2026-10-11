@@ -6,7 +6,7 @@ authors:
   - family-names: "[TODO]"
     given-names: "[TODO]"
     affiliation: "[TODO]"
-repository-code: "https://github.com/[TODO-USER]/Cerberus"
+repository-code: "https://github.com/Liangyan-1996/Cerberus"
 license: MIT
 version: "1.0.0"
 date-released: "2026-09-18"
@@ -15,3 +15,8 @@ references:
     title: "[TODO: manuscript title]"
     journal: "[TODO]"
     doi: "[TODO]"
+  - type: software
+    title: "Code and model weights (v1.0.0)"
+    version: "1.0.0"
+    doi: "10.5281/zenodo.22840452"
+    url: "https://doi.org/10.5281/zenodo.22840452"
